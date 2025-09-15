@@ -20,8 +20,6 @@ Pseudocode:
 - Calculate the length in cm (LCM) by multiplying LFT by 30
 - Print length in cm (LCM)
 
-### _Answer_
-
 ## Exercise 2
 
 Write an algorithm and draw a flowchart that will read the two sides of a rectangle and calculate its area.
@@ -32,21 +30,15 @@ Pseudocode:
 - Calculate the area (A) by multiplying W by L
 - Print A
 
-### _Answer_
-
 ## Exercise 3
 
 Write an algorithm and draw a flowchart that will read three numbers and prints the value of the largest number.
 
 > Given that the three numbers are not equal to each other)
 
-### _Answer_
-
 ## Exercise 4
 
 Write an algorithm and draw a flowchart to check the three number inputs whether a triangle is possible or not.
-
-### _Answer_
 
 ## Exercise 5
 
@@ -62,6 +54,3 @@ Display the grades as per the table given below:
 | 60% or more but less than 80% | B        |
 | 40% or more but less than 60% | C        |
 | Less than 40%                 | No Grade |
-
-### _Answer_
-
